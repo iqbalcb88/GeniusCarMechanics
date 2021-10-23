@@ -1,0 +1,15 @@
+.service {
+  border: 1px solid lightgrey;
+  overflow-x: hidden;
+  background-color: rgb(205, 248, 250);
+  border-radius: 20px;
+  padding: 0 0 10px 0;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.service img {
+  width: 100%;
+}
